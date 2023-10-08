@@ -1,0 +1,11 @@
+
+Cyberowca(7, 1) zjada Mlecz(7, 0)
+Wilk(8, 7) zjada Guarana(7, 7)
+Cyberowca(9, 0) zjada Mlecz(9, 1)
+brak
+brak
+brak
+brak
+brak
+brak
+brak
